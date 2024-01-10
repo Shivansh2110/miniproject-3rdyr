@@ -1,4 +1,4 @@
 flask
 numpy
-pandas
+pandas_version 0.19.2
 gunicorn
